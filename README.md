@@ -16,7 +16,7 @@ Assignment: create a program with products and a shopping cart. Requirements:
 Make sure you have [Ruby](https://www.ruby-lang.org/en/) installed.
 
 ```bash
-git clone git@github.com:Abohte/YogaStore.git
+git clone git@github.com:Abohte/yoga-store.git
 cd YogaStore
 ruby YogaStore.rb
 ```
