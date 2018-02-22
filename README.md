@@ -20,6 +20,6 @@ Make sure you have [Ruby](https://www.ruby-lang.org/en/) installed.
 
 ```bash
 git clone git@github.com:Abohte/yoga-store.git
-cd YogaStore
+cd yoga-store
 ruby YogaStore.rb
 ```
