@@ -1,6 +1,6 @@
 # Yoga Store
 
-Simple Ruby program made during the first week of the 9-week Codaisseur Academy.
+Simple Ruby program made during week 1 of the 9-week Codaisseur Academy.
 
 Making this program was an exercise in getting to know loops and iteration in Ruby.
 
